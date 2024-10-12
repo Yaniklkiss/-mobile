@@ -19,3 +19,5 @@
 [Отчет по результатам тестирования](https://github.com/user-attachments/files/17334832/_._._.pdf)
 
 
+[Перехват и изменение трафика](https://drive.google.com/file/d/1xynB8n6i_1BzpDx2STGo-N4UftUqLWMJ/view?usp=sharing)
+
